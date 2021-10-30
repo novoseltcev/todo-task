@@ -1,3 +1,6 @@
 [submodule "redis"]
 	path = redis
 	url = https://github.com/st-a-novoseltcev/redis-deploy-server
+[submodule "postgresSQL"]
+	path = postgreSQL-deploy-server
+	url = https://github.com/st-a-novoseltcev/postgreSQL-deploy-server
