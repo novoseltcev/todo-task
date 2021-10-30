@@ -1,0 +1,3 @@
+[submodule "redis"]
+	path = redis-deploy-server
+	url = https://github.com/st-a-novoseltcev/redis-deploy-server
