@@ -1,3 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/st-a-novoseltcev/todo-task-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/st-a-novoseltcev/todo-task-frontend
 [submodule "redis"]
 	path = redis
 	url = https://github.com/st-a-novoseltcev/redis-deploy-server
